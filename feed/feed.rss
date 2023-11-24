@@ -1,0 +1,15 @@
+<rss version="2.0">
+ <channel>
+    <title>Games online</title>
+    <description>Website about games online</description>
+    <link>https://raquetm.github.io/projectRSS/</link>
+    <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+    <managingEditor>a23raqueltm@iessanclemente.net</managingEditor>
+    <item>
+        <title>Ikariam</title>
+        <link>https://raquetm.github.io/projectRSS/</link>
+        <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+        <description>Ikariam.</description>
+    </item>
+ </channel>
+</rss>
